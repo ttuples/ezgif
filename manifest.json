@@ -1,11 +1,11 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "dev.replugged.EzGif",
+  "name": "EzGif",
+  "description": "QOL plugin to allow for sending multiple gifs without the window closing",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Tuples",
+    "discordID": "970452152919150592",
+    "github": "ttuples"
   },
   "version": "1.0.0",
   "updater": {
@@ -16,5 +16,5 @@
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
   "source": "https://github.com/ttuples/ezgif",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "image": ["https://github.com/ttuples/ezgif/blob/main/ezgif.png?raw=true"]
 }
